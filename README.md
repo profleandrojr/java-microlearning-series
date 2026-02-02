@@ -55,7 +55,7 @@ Understanding why Strings don’t change — and what actually changes.
 
 More lessons will be added progressively.
 
-🎯** Teaching philosophy**
+🎯 **Teaching philosophy**
 
 Concepts before syntax
 
