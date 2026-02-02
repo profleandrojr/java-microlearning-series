@@ -67,6 +67,26 @@ Simple tools before complex stacks
 
 This material is designed to complement short videos, carousels, and classroom discussions.
 
+---
+
+## 🎓 Learning Hub (Google Classroom)
+
+This repository is part of a structured microlearning initiative.
+
+To follow the lessons in sequence, access complementary materials,
+and complete short assessments, join the classroom below:
+
+👉 https://classroom.google.com/c/NzkyMjk0NjAxNTk0?cjc=c43zrwbo
+
+The classroom groups:
+- lesson explanations
+- practice exercises
+- short quizzes
+- links to videos and visual materials
+
+Access is free and open.
+
+---
 ❤️  **Support**
 
 All content in this repository is free and open.
